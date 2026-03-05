@@ -1,1 +1,1 @@
-# spotterizer.com
+# openjdk-13.env.sh
